@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    color: #eab0f4;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #eab0f4;
+}
+
+i.fa-whatsapp {
+    font-size: 24px;
+    width: 30px;
+    height: 30px;
+    color: #b688be;
+    margin-right: 5px;
+}
+
+i.fa-instagram {
+    font-size: 24px;
+    width: 30px;
+    height: 30px;
+    color: #b688be;
+    margin-right: 5px;
+}
+
+i.fa-envelope {
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+    color: #b688be;
+    margin-right: 5px;
+}
+
+i.fa-whatsapp:hover, i.fa-instagram:hover, i.fa-envelope:hover {
+    color: #eab0f4;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #f2f2f2;
+    color: #b085b8;
+    padding: 20px;
+    text-align: center;
+}

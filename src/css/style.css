@@ -1,8 +1,8 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to bottom, #ffffff, #e2a7ff);
+    background-color: #ffffff;
     background-size: cover;
     background-position: center;
 }
@@ -28,6 +28,7 @@ section {
 
 h2 {
     color: #eab0f4;
+    font-family: 'Playfair Display', serif;
 }
 
 i.fa-whatsapp, i.fa-instagram, i.fa-envelope {
@@ -36,6 +37,7 @@ i.fa-whatsapp, i.fa-instagram, i.fa-envelope {
     height: 30px;
     color: #b688be;
     margin-right: 5px;
+    transition: color 0.3s ease;
 }
 
 i.fa-whatsapp:hover, i.fa-instagram:hover, i.fa-envelope:hover {

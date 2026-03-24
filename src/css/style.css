@@ -2,7 +2,7 @@ body {
     font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #ede1edb8;
     background-size: cover;
     background-position: center;
 }
@@ -37,7 +37,7 @@ section {
     margin-bottom: 20px;
 }
 
-h2 {
+h1, h2 {
     color: #eab0f4;
     font-family: 'Playfair Display', serif;
 }

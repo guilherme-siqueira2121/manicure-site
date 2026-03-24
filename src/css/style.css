@@ -30,26 +30,10 @@ h2 {
     color: #eab0f4;
 }
 
-i.fa-whatsapp {
+i.fa-whatsapp, i.fa-instagram, i.fa-envelope {
     font-size: 24px;
     width: 30px;
     height: 30px;
-    color: #b688be;
-    margin-right: 5px;
-}
-
-i.fa-instagram {
-    font-size: 24px;
-    width: 30px;
-    height: 30px;
-    color: #b688be;
-    margin-right: 5px;
-}
-
-i.fa-envelope {
-    width: 30px;
-    height: 30px;
-    font-size: 24px;
     color: #b688be;
     margin-right: 5px;
 }

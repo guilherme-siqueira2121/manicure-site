@@ -14,10 +14,6 @@ header {
     text-align: center;
 }
 
-h1 {
-    text-align: center;
-}
-
 h1, h2 {
     color: #000000;
     font-family: 'Playfair Display', serif;
@@ -42,10 +38,6 @@ ul {
     padding: 0;
 }
 
-li {
-    margin-bottom: 12px;
-}
-
 section {
     margin-bottom: 20px;
 }
@@ -60,7 +52,7 @@ section {
     color: #b688be;
     background-color: #f2f2f2;
     margin-right: 5px;
-    transition: background-color 0.5s ease;
+    transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 .social-btn:hover {
